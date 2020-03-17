@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nepeliak Yevhen</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1 id="hello">
+            Hello my dear friends
+        </h1>
+        <nav>
+            <a href="#biography">My biography |</a>
+            <a href="#photo">Photo |</a>
+            <a href="#shortinformation">Short information about me |</a>
+            <a href="#hobby">Hobby |</a>
+
+        </nav>
+    </header>
+
+    <article>
+        <header>
+            <h1 id="biography">My biography</h1>
+
+
+            <p>Я, Непеляк Євген Васильович народився 31грудня 2001року в місті Івано-Франківськ.<br>
+                З 1 вересня 2008 року навчався в ЗШ№25.З першого по шостий клас отримував похвальний лист за старанне
+                навчання , але в 7 класі підзабив на школу.Брав участь в багатьох олімпіадах з фізики , математики та
+                історії.
+                22 червня 2016року вступив у Фізико-технічний ліцей при ІФНТУНГ , де навчався 2 роки після чого я
+                вернувся
+                назад любиму 25 школу через деякі непорозуміння з викладачами.
+                27 травня 2019 року закінчив школу, а 30 липня подав документи на вступ в ІФНТУНГ за спеціальністю
+                "Автоматизація на комп'ютерно-інтегровані технології" , де отримав високий рейтинговий бал через успішно
+                складене ЗНО.
+                Закінчив перший семестр з середнім балом 91,4.</p>
+        </header>
+        <section>
+            <h1 id="photo">Photo</h1>
+
+
+            <img src="photo_2019-09-16_23-41-34.jpg" alt="my photo" class="tphoto">
+            <img src="photo_2020-03-17_15-30-12.jpg" alt="my photo" class="tphoto">
+
+            <img src="photo_2020-03-17_15-31-26.jpg" alt="my photo" class="tphoto">
+
+        </section>
+        <section>
+            <h1 id="hobby">My Hobby</h1>
+            З 6 років по 13 відвідував секцію Тхеквандо ВТФ , де здобув чимало перемог та мав коричневий пояс.Закинув
+            через травму.Любив бігати футбол в дворі ,це так затягнулость ,що я вирішив спробувати у футболі ,грав за
+            футбольну команду на область ,але через навчання мусив закинути і футбол.Дальше нічим не займався протягом
+            пів року ,но я знайшов вихід та почав займатись вуличним воркаутом після чого в 11 класі мене затянуло в
+            зал.Зараз займаюсь в залі приблизно повтора роки та маю непогані силові показники.
+        </section>
+    </article>
+    <aside>
+        <table id="shortinformation">
+            <tr>
+                <td colspan="2"><img src="aside.jpg" alt="my photo" id="table"></td>
+            </tr>
+            <tr>
+                <td>Ім'я:</td>
+                <td>Євген</td>
+            </tr>
+            <tr>
+                <td>Прізвище:</td>
+                <td>Непеляк</td>
+            </tr>
+            <tr>
+                <td>Дата народження</td>
+                <td>31.12.2001</td>
+            </tr>
+            <tr>
+                <td>Ріст:</td>
+                <td>176см</td>
+            </tr>
+            <tr>
+                <td>Вага:</td>
+                <td>70кг</td>
+            </tr>
+            <tr>
+                <td>Хоббі:</td>
+                <td>Паверліфтинг ,кроссфіт</td>
+            </tr>
+
+        </table>
+    </aside>
+    <footer>
+        <p id="footer">
+            <a href="https://www.instagram.com/znepeliak01/?hl=uk"><img src="Instagram_icon.png" alt="istagram"
+                    class="foot"></a>
+            <a href="https://www.facebook.com/znepeliak"><img src="1200px-Facebook_icon.svg.png" alt="facebook"
+                    class="foot"></a>
+        </p>
+    </footer>
+</body>
+
+</html>
